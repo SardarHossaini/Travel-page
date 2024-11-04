@@ -13,13 +13,14 @@
   font-size: 36px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
-.Form {
+form {
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: orange;
   padding: 11px 0;
 }
+
 .Form select {
   margin-left: 10px;
   padding: 7px 12px;
@@ -36,7 +37,7 @@
 }
 .Packinglist {
   background-color: rgb(105, 26, 26);
-  height: 69vh;
+  height: 71.5vh;
   padding: 15px 0;
 }
 .Packinglist ul {
